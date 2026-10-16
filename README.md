@@ -28,4 +28,4 @@ Well, you can buy the plugin [here](https://create.roblox.com/store/asset/472561
 
 ## Is this a virus?
 # NO.
-This isn't a virus, shown here by [this Virustotal report.](https://www.virustotal.com/gui/file/0e18912e408712e99cdb91568c5a8600f6e15ba1534a18493ec4059c690179d4)
+This isn't a virus, shown here by [this Virustotal report](https://www.virustotal.com/gui/file/0e18912e408712e99cdb91568c5a8600f6e15ba1534a18493ec4059c690179d4) and this [Jotti's Malware Scan report.](https://virusscan.jotti.org/en-US/filescanjob/zpzz8xu1kj) I can guarantee you, this is safe. There would be no reason to even insert a virus to it... I am not even sure if you can put viruses that infect your computer or accounts in a Roblox Plugin.
