@@ -3,7 +3,7 @@ This repository contains the most recent version of Moon Animator 2 (V36000).
 I have uploaded this simply so more people can kickstart their animation career on Roblox without paying so much for a plugin. If it ever gets updated (which probably won't), I will put it here.
 
 # HOW TO DOWNLOAD?
-Quite simple. You must downlaod the plugin[here](https://github.com/MA2Updated/moonanimator2/releases/#release-ma2). There will be a RBXM file. Go to Roblox Studio > Plugins (in the top bar) and go to the Plugins Folder. You will drag the Moon Animator RBXM file to this folder. You are set to go from there on.
+Quite simple. You must downlaod the plugin [here](https://github.com/MA2Updated/moonanimator2/releases/#release-ma2). There will be a RBXM file. Go to Roblox Studio > Plugins (in the top bar) and go to the Plugins Folder. You will drag the Moon Animator RBXM file to this folder. You are set to go from there on.
 
 # ADDONS
 If you want, there a few addons to help you while animating.
