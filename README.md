@@ -25,3 +25,7 @@ Well, you can buy the plugin [here](https://create.roblox.com/store/asset/472561
 
 # CREDITS
 [xsixx](https://www.roblox.com/users/9543399/profile) has made this plugin, it does not belong to me. I am simply uploading this for those who can't afford the plugin.
+
+## Is this a virus?
+# NO.
+This isn't a virus, shown here by [this Virustotal report.](https://www.virustotal.com/gui/file/0e18912e408712e99cdb91568c5a8600f6e15ba1534a18493ec4059c690179d4)
