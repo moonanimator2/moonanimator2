@@ -5,7 +5,7 @@ I have uploaded this simply so more people can kickstart their animation career 
 # HOW TO DOWNLOAD?
 Quite simple. You must downlaod the plugin [here](https://github.com/MA2Updated/moonanimator2/releases/#release-ma2). There will be a RBXMX file. Go to Roblox Studio > Plugins (in the top bar) and go to the Plugins Folder. You will drag the Moon Animator RBXMX file to this folder. You are set to go from there on.
 
-# ADDONS
+# ADDONS AND MORE
 If you want, there a few addons to help you while animating.
 
 [MoonPlus - extra features](https://create.roblox.com/store/asset/17171181036/MoonPlus?assetType=Plugin)
@@ -19,3 +19,9 @@ If you want, there a few addons to help you while animating.
 [Backup Moon Animations - backups animations](https://create.roblox.com/store/asset/6279841166/Backup-Moon-Animations)
 
 [Fyflix Addon - can change lighting](https://create.roblox.com/store/asset/97187502197148/Fyflix-Addon?assetType=Plugin)
+
+## And if you want to buy the plugin...
+Well, you can buy the plugin [here](https://create.roblox.com/store/asset/4725618216/Moon-Animator-2-sale) if you want, even if it's here for free... but hey, I won't judge. You do what you want with your money.
+
+# CREDITS
+[xsixx](https://www.roblox.com/users/9543399/profile) has made this plugin, it does not belong to me. I am simply uploading this for those who can't afford the plugin.
